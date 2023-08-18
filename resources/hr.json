@@ -83,10 +83,10 @@
         "options": {
           "0": {
             "title": "Je novozaposlen",
-            "description": "Tega sodelavca izbiram, ker je novozaposlen, še nima veliko izkušenj, je morda še nekoliko nezrel oziroma ima ambicije, da v prihodnje doseže več. Potrebuje čas in podporo, da se dokaže in nadaljnje razvija v našem podjetju."
+            "description": "Odabrao sam ovog kolegu jer je tek zaposlen, nema još puno iskustva, možda je malo nezreo ili ima ambicije postići više u budućnosti. Treba mu vrijeme i podrška da se dokaže i dalje razvija u našoj tvrtki."
           },
           "1": {
-            "title": "Podjetje premalo vlaga vanj",
+            "title": "Tvrtka premalo ulaže u njega",
             "description": "Tega sodelavca izbiram, ker podjetje vanj in v njegove sposobnosti ne vlaga dovolj oziroma njegovih sposobnosti, znanj, izkušenj ne izkorišča optimalno. Za bolj optimalno delo bi moralo podjetje temu sodelavcu priznati več zaslug ali omogočiti več avtonomije ter vložiti v njegov osebni in strokovni razvoj."
           },
           "2": {
