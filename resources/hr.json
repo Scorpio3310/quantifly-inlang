@@ -17,11 +17,11 @@
         "id": "CQ1a",
         "image": "/assets/images/mvp_image.png",
         "type": "selectPeopleReason",
-        "button": "Izberi razlog",
+        "button": "Izaberi razlog",
         "options": {
           "0": {
-            "title": "Je vpet v podjetje",
-            "description": "Tega sodelavca izbiram za MVP, ker je ključen za podjetje zaradi poznavanja vizije podjetja, podjetniških sposobnosti, vpetosti v delovne procese, povezovanja oddelkov ali ustreznih poznanstev."
+            "title": "Uključen je u tvrtku",
+            "description": "Ovog suradnika biram za MVP-a jer je ključan za tvrtku zbog poznavanja vizije tvrtke, poduzetničkih vještina, uključenosti u radne procese, integracije odjela ili relevantnih poznanstava."
           },
           "1": {
             "title": "Ima občutek za ekipo",
