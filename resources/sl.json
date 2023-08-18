@@ -1,0 +1,1527 @@
+{
+  "lang": "sl",
+  "coworkers": {
+    "id": "coworkers-insight-with-360-1",
+    "title": "Ocena sodelavca",
+    "description": "Vprašalnik omogoči anonimno povratno informacijo o tvoji ekipi. Pri ocenjevanju in povratnih informacijah bodi iskren in neposreden. S tem namreč pomagaš svoji ekipi postati boljši - tako osebno kot tudi profesionalno.\n\n*Opomba: V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
+    "type": "coworkers",
+    "questions": {
+      "0": {
+        "id": "CQ1",
+        "image": "/assets/images/mvp_image.png",
+        "type": "selectPeople",
+        "title": "Izberi sodelavce, ki jih prepoznavaš kot najboljše delavce podjetja (MVP) zaradi njihovega izjemnega doprinosa k uspešnosti in produktivnosti podjetja.",
+        "help": ""
+      },
+      "1": {
+        "id": "CQ1a",
+        "image": "/assets/images/mvp_image.png",
+        "type": "selectPeopleReason",
+        "button": "Izberi razlog",
+        "options": {
+          "0": {
+            "title": "Je vpet v podjetje",
+            "description": "Tega sodelavca izbiram za MVP, ker je ključen za podjetje zaradi poznavanja vizije podjetja, podjetniških sposobnosti, vpetosti v delovne procese, povezovanja oddelkov ali ustreznih poznanstev."
+          },
+          "1": {
+            "title": "Ima občutek za ekipo",
+            "description": "Tega sodelavca izbiram za MVP, ker sta mu pomembna povezanost in dobro vzdušje v ekipi. Druge vključuje v svoje delo in odločitve, jih motivira in povezuje v enotno ekipo, zna pa tudi poskrbeti za prijetno in sproščeno vzdušje v ekipi."
+          },
+          "2": {
+            "title": "Ima znanje in/ali izkušnje",
+            "description": "Tega sodelavca izbiram za MVP, ker je profesionalen in sposoben, ima veliko znanja in izkušenj na svojem področju ter pripomore k iskanju inovativnih rešitev."
+          },
+          "3": {
+            "title": "Ima vodstvene veščine",
+            "description": "Tega sodelavca izbiram za MVP, ker je s svojim delovanjem in vizijo v zgled in podporo drugim. Strateško razmišlja in sprejema odločitve, njegovo mnenje je zelo spoštovano in cenjeno. Zna deliti, organizirati, koordinirati delo, podati koristno povratno informacijo in prepoznati potenciale pri ljudeh."
+          },
+          "4": {
+            "title": "Izkazuje motiviranost in zanos",
+            "description": "Tega sodelavca izbiram za MVP, ker izkazuje močno motivacijo za delo in nova znanja. Pripravljen je vložiti dodatno energijo in čas za to, da bo delo dobro in pravočasno opravljeno."
+          },
+          "5": {
+            "title": "Ima ustrezen pristop k delu",
+            "description": "Tega sodelavca izbiram za MVP, ker je organiziran in pravočasno opravi vse svoje obveznosti, hkrati pa sprejme odgovornost za njihovo kakovost in natančnost. Če naleti na težave, vztraja, dokler ne odkrije uporabne rešitve."
+          },
+          "6": {
+            "title": "Je požrtvovalen",
+            "description": "Tega sodelavca izbiram za MVP, ker je izredno delaven in naredi več, kot je potrebno. Pripravljen je prevzeti več nalog sočasno in žrtvovati svoj prosti čas za službene obveznosti."
+          },
+          "7": {
+            "title": "Se zna spoprijemati s stresom",
+            "description": "Tega sodelavca izbiram za MVP, ker je potrpežljiv in se zna prilagoditi, ohraniti mirno kri in delovati premišljeno ne glede na okoliščine in zahteve."
+          },
+          "8": {
+            "title": "Ima dobre komunikacijske veščine",
+            "description": "Tega sodelavca izbiram za MVP, ker dobro in učinkovito komunicira z drugimi. Je jasen, razumljiv, podaja smiselne ideje in dobre argumente."
+          },
+          "9": {
+            "title": "Ima občutek za sočloveka",
+            "description": "Tega sodelavca izbiram za MVP, ker ima občutek za sočloveka. Pripravljen je priskočiti na pomoč, je empatičen, prijazen, nekonflikten, odprt do drugih, spoštljiv, zna drugim prisluhniti in (se) mu lahko zaupaš."
+          },
+          "10": {
+            "title": "Ne vem / drugo",
+            "customText": "",
+            "description": "Tega sodelavca izbiram za MVP, vendar njegovega doprinosa ne morem jasno opredeliti ali ga uvrstiti v ostale razloge. Imam drug razlog za izbor sodelavca:"
+          }
+        },
+        "title": "Zakaj si izbral tega sodelavca?",
+        "help": "Izmed spodaj navedenih razlogov izberi tiste (enega ali več), ki so najbolj vplivali na tvojo izbiro sodelavca."
+      },
+      "2": {
+        "id": "CQ2",
+        "image": "/assets/images/potential_image.png",
+        "type": "selectPeople",
+        "title": "Izberi sodelavce, ki imajo po tvojem mnenju največ neizkoriščenega potenciala.",
+        "help": "To so lahko sodelavci, za katere meniš, da bi lahko prevzeli več nalog in odgovornosti, bi se bolje znašli na drugi poziciji, imajo veliko prostora za strokovni/karierni razvoj ali pa svojega časa na delovnem mestu ne izkoriščajo optimalno."
+      },
+      "3": {
+        "id": "CQ2a",
+        "image": "/assets/images/potential_image.png",
+        "type": "selectPeopleReason",
+        "button": "Izberi razlog",
+        "options": {
+          "0": {
+            "title": "Je novozaposlen",
+            "description": "Tega sodelavca izbiram, ker je novozaposlen, še nima veliko izkušenj, je morda še nekoliko nezrel oziroma ima ambicije, da v prihodnje doseže več. Potrebuje čas in podporo, da se dokaže in nadaljnje razvija v našem podjetju."
+          },
+          "1": {
+            "title": "Podjetje premalo vlaga vanj",
+            "description": "Tega sodelavca izbiram, ker podjetje vanj in v njegove sposobnosti ne vlaga dovolj oziroma njegovih sposobnosti, znanj, izkušenj ne izkorišča optimalno. Za bolj optimalno delo bi moralo podjetje temu sodelavcu priznati več zaslug ali omogočiti več avtonomije ter vložiti v njegov osebni in strokovni razvoj."
+          },
+          "2": {
+            "title": "Ne ustreza zahtevam delovnega mesta",
+            "description": "Tega sodelavca izbiram, ker njegove sposobnosti, talenti ipd. ne ustrezajo zahtevam delovnega mesta. Morda bi bil bolj primeren za druge naloge, pozicije, odgovornosti."
+          },
+          "3": {
+            "title": "Se ne ujema s kulturo in vrednotami podjetja",
+            "description": "Tega sodelavca izbiram, ker se njegovo delovanje ne sklada z našim podjetjem; ne ujema se v vrednotah, ni pripaden podjetju, njegova črnoglednost ovira kakovost ekipnega dela. Če pri njem ne pride do večje spremembe, si ne predstavljam prihodnosti zanj v našem podjetju."
+          },
+          "4": {
+            "title": "Trenutno je pogosto odsoten",
+            "description": "Tega sodelavca izbiram, ker je trenutno pogosto odsoten z delovnega mesta oziroma njegovo zasebno življenje pogosto posega v opravljanje in kakovost njegovega dela. Kot podjetje bi morali izboljšati komunikacijo o njegovem delu in/ali prilagoditi njegov delovni čas, da bi delo v ekipi teklo bolj tekoče."
+          },
+          "5": {
+            "title": "Je premalo samoiniciativen",
+            "description": "Tega sodelavca izbiram, ker navkljub možnostim v podjetju ne izkazuje svojih sposobnosti in talentov, ni motiviran, ni pripravljen na osebnostno rast in v svoje delo preprosto ne vlaga vsega, kar lahko pokaže. Da bi povečal svojo delovno učinkovitost, bi moral razmisliti, kaj ga motivira in kako osmisliti svoje delo."
+          },
+          "6": {
+            "title": "Je pripravljen za več odgovornosti",
+            "description": "Tega sodelavca izbiram, ker je visoko motiviran in ambiciozen ter ima veliko znanj in izkušenj. Lahko bi prevzel bolj odgovorno ali bolj vodstveno vlogo v podjetju."
+          },
+          "7": {
+            "title": "Ne vem / drugo",
+            "customText": "",
+            "description": "Tega sodelavca izbiram, vendar njegovega neizkoriščenega potenciala ne morem jasno opredeliti oziroma ga uvrstiti v ostale razloge. Imam drug razlog za izbor sodelavca:"
+          }
+        },
+        "title": "Zakaj si izbral tega sodelavca?",
+        "help": "Izmed spodaj navedenih razlogov izberi tistega, ki je najbolj vplival na tvojo izbiro sodelavca."
+      },
+      "4": {
+        "id": "CQ3",
+        "type": "selectPeople",
+        "title": "S kom najraje sodeluješ?",
+        "help": ""
+      },
+      "5": {
+        "id": "CQ4",
+        "type": "selectPeople",
+        "title": "S katerimi sodelavci čutiš v odnosu največ napetosti oziroma imaš z njimi največ konfliktov?",
+        "help": ""
+      },
+      "6": {
+        "id": "CQ7",
+        "type": "selectPeople",
+        "title": "S kom najtežje sodeluješ?",
+        "help": ""
+      },
+      "7": {
+        "id": "CQXX",
+        "type": "selectPeopleChooser",
+        "title": "Katere sodelavce boš ocenil?",
+        "help": "Izberi vsaj 1 sodelavca."
+      },
+      "8": {
+        "id": "CQXXX",
+        "type": "coworkers-drag-bucket",
+        "title": "Katere od naslednjih vlog najbolje opisujejo sodelavca?",
+        "help": "Vsakemu izmed sodelavcev lahko dodeliš največ 3 vloge.",
+        "button": "Dodeli vloge",
+        "options": {
+          "0": {
+            "title": "Ekipni vodja",
+            "shortTitle": "Ekipni vodja",
+            "description": "Vodi, usmerja, nadzira, organizira, koordinira in daje navodila, strukturira naloge, vnaša in skrbi za red, povezuje ekipo, spodbuja delo in dejavnosti, vodi ekipo k zaključevanju nalog in doseganju ciljev."
+          },
+          "1": {
+            "title": "Motivator",
+            "shortTitle": "Motivator",
+            "description": "Deluje v vlogi “drugega poveljnika” ekipe ali upravitelja nalog, ki podpira ekipno vodjo. Stimulira in spodbuja ekipo k delu in jo napolni z energijo, da vztraja pri delu."
+          },
+          "2": {
+            "title": "Iskalec moči",
+            "shortTitle": "Iskalec moči",
+            "description": "Prevladuje, je avtokratski, išče moč in prepoznavnost preko dominantnosti, uveljavlja avtoriteto ali premoč, prekinja, moti doprinose drugih, druge podcenjuje, teži k prevladi in prevzemu moči, nasprotuje vodji, je agresiven do drugih."
+          },
+          "3": {
+            "title": "Kritik",
+            "shortTitle": "Kritik",
+            "description": "Prevzema vlogo kritika, iskalca napak, zaviralca ali hudičevega odvetnika, se ne strinja, nasprotuje, je ciničen, negativističen in trmast, obsoja druge, je pogosto v nasprotju s preostalo ekipo, v drugih zbuja odpor in obrambo. Je uporabna vloga pri odločanju."
+          },
+          "4": {
+            "title": "Pritegovalec pozornosti",
+            "shortTitle": "Pritegovalec pozornosti",
+            "description": "Išče pozornost in dostopne vire, a naredi malo. Išče pozornost brez odgovornosti, se izogiba dejanskemu delu, od drugih pričakuje, da bodo drugi opravili delo, prikriva informacije, dokler od njih nima osebne koristi, “resen premislek” prepušča drugim, pri drugih išče sočutje, izraža osebna mnenja in poglede."
+          },
+          "5": {
+            "title": "Črnoglednež",
+            "shortTitle": "Črnoglednež",
+            "description": "Kaže negativno čustveno vedenje, ničesar ne prispeva ekipi, izkazuje “ne zmorem” odnos, izkazuje napetost, se umika, se pritožuje in godrnja, spodkopava ekipni duh, trud vidi kot izgubo časa."
+          },
+          "6": {
+            "title": "Družabnež",
+            "shortTitle": "Družabnež",
+            "description": "Prispeva k skupinski harmoniji in vzdrževanju medosebnih odnosov, sprošča napetost, zbija šale, posreduje pri konfliktih, hvali druge, izkazuje toplino in solidarnost, se zavzema za ekipno povezanost, podpira druge in vzdržuje vzdušje/moralo v ekipi."
+          },
+          "7": {
+            "title": "Koordinator",
+            "shortTitle": "Koordinator",
+            "description": "Koordinira delovne dejavnosti znotraj in izven ekipe, spodbuja ekipno delovanje in ekipne funkcije, koordinira dejavnosti, pojasnjuje naloge, skrbi za odprto komunikacijo, spodbuja sodelovanje vseh in predstavlja ideje znotraj in izven ekipe."
+          },
+          "8": {
+            "title": "Sledilec",
+            "shortTitle": "Sledilec",
+            "description": "Sprejema dejavnosti sledilca, kot so poslušanje, strinjanje in sodelovanje. Vključuje se in sodeluje v diskusijah in skupnih odločitvah, je dober poslušalec in povezovalec, prisluhne idejam drugih in jih nadgrajuje, sprejema in se podredi danim nalogam, išče sodelovanje in se izogiba konfliktom."
+          },
+          "9": {
+            "title": "Ekipni igralec",
+            "shortTitle": "Ekipni igralec",
+            "description": "Podpira uspešno zaključevanje ekipnih nalog, pripomore k doseganju ekipnih ciljev, uresničuje načrte, pomaga ekipi, povzema in razjasnjuje, beleži dejavnosti, procese in dosežke ekipe, prevzema pobudo, da zagotovi uspeh ekipe, združuje informacije, se pripravlja na ekipna srečanja."
+          },
+          "10": {
+            "title": "Presojevalec",
+            "shortTitle": "Presojevalec",
+            "description": "Pregleduje in presoja ekipne rezultate, analizira in ocenjuje predloge, je previden in natančen, se osredotoča na dejstva in številke določene naloge."
+          },
+          "11": {
+            "title": "Reševalec težav",
+            "shortTitle": "Reševalec težav",
+            "description": "Se vključuje v tvorjenje idej in reševanje problemov, prosi za informacije in vpraša za mnenje ali pojasnitev, postreže z dejstvi, informacijami in mnenjem, izpostavlja protislovja in jih razjasnjuje, inovira, predlaga rešitve, ekipo usmerja k nalogi, deluje po principu “ponovim - razjasnim - potrdim”."
+          },
+          "12": {
+            "title": "Dovrševalec",
+            "shortTitle": "Dovrševalec",
+            "description": "Izvaja na podrobnosti osredotočene dejavnosti, ki so povezane z dovrševanjem nalog, se drži postopkov in postavljenih rokov, je usmerjen na podrobnosti, vesten in redoljuben, se drži svojih zadolžitev, izvaja nedvoumne in rutinske naloge."
+          }
+        }
+      },
+      "9": {
+        "id": "CQ8",
+        "type": "coworkers-drag-bucket",
+        "title": "Sodelavec je tvoj...",
+        "help": "V prvem delu obrazca bi radi izvedeli več o tvojem odnosu s sodelavci in dinamiki v ekipi.",
+        "button": "Izberi položaj",
+        "options": {
+          "0": {
+            "id": "superior",
+            "title": "Nadrejeni"
+          },
+          "1": {
+            "id": "subordinate",
+            "title": "Podrejeni"
+          },
+          "2": {
+            "id": "same_team",
+            "title": "Sodelavec v isti ekipi"
+          },
+          "3": {
+            "id": "same_but_different_team",
+            "title": "Sodelavec v drugi ekipi"
+          }
+        }
+      },
+      "10": {
+        "id": "CQ11",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Pri delu s sodelavcem zelo uživam in si ne morem predstavljati boljšega sodelavca.",
+        "help": ""
+      },
+      "11": {
+        "id": "CQ12",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Sodelavec me spoštuje in uživa pri delu z mano.",
+        "help": ""
+      },
+      "12": {
+        "id": "CQ13",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Sodelavca zelo dobro poznam in razumem.",
+        "help": ""
+      },
+      "13": {
+        "id": "CQ14",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Sodelavcu zelo zaupam.",
+        "help": ""
+      },
+      "14": {
+        "id": "CQ15",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "scaleTitle": "",
+        "title": "S sodelavcem zlahka spregovorim o svojih težavah.",
+        "help": ""
+      },
+      "15": {
+        "id": "CQCoworkerOverworked",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Zaznavam, da je sodelavec je preobremenjen.",
+        "help": ""
+      },
+      "16": {
+        "id": "CQ23",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Naloge opravi natančno in brez napak.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "17": {
+        "id": "CQ24",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Delo opravi v zastavljenih rokih.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "18": {
+        "id": "CQ25",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Sodelavci se nanj obračajo za strokovne nasvete.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "19": {
+        "id": "CQ26",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Njegovo strokovno znanje zadostuje delovnim nalogam, s katerimi se srečuje pri svojem delu.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "20": {
+        "id": "CQ27",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Za delovne naloge predvidi dovolj časa.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "21": {
+        "id": "CQ28",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Delovne naloge opravlja zbrano in predano.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "22": {
+        "id": "CQ29",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Išče nove ideje in rešitve za izboljšanje produkta/storitve.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "23": {
+        "id": "CQ30",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Opazi načine, kako lahko delovni proces še izboljša.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "24": {
+        "id": "CQ31",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Za opravljanje delovnih nalog nameni dodaten čas in napor.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "25": {
+        "id": "CQ32",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Stori vse, kar je potrebno, da doseže zastavljene cilje.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "26": {
+        "id": "CQ33",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Svoje ideje sporoča na način, ki je drugim jasen in razumljiv.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "27": {
+        "id": "CQ34",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "S svojimi idejami in načrti navdihuje in motivira druge.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "28": {
+        "id": "CQ35",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Svoje vedenje in komunikacijo prilagodi različnim pogledom, potrebam in čustvom sodelavcev.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "29": {
+        "id": "CQ36",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Pravilno prepoznava občutja, čustva in potrebe sodelavcev.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "30": {
+        "id": "CQ37",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Brez težav prilagodi svoje mnenje ali način razmišljanja, če se spremeni situacija pri delu.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "31": {
+        "id": "CQ38",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Z lahkoto spremeni svoj način dela, če situacija pri delu to zahteva od njega.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "32": {
+        "id": "CQ39",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Prevzame pobudo za iskanje rešitve, ko se soočimo s problemom pri delu.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "33": {
+        "id": "CQ40",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Prevzame odgovornost za napake in neuspeh sebe in/ali svoje ekipe.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "34": {
+        "id": "CQ41",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Zmore ohraniti mirnost v stresnih in težavnih situacijah pri delu.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "35": {
+        "id": "CQ42",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "V stresnih in težavnih situacijah pri delu se (zlahka) osredotoči na reševanje problema.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "36": {
+        "id": "CQ43",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Poskrbi, da se sodelavci počutijo dobrodošle in sprejete.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "37": {
+        "id": "CQ44",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "V svoje odločitve vključuje mnenja drugih.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "38": {
+        "id": "CQ45",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Aktivno išče načine, kako lahko raste in se izpopolnjuje kot oseba.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "39": {
+        "id": "CQ46",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Aktivno išče načine za pridobivanje novega znanja in veščin za delo.",
+        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+      },
+      "40": {
+        "id": "CQ47",
+        "type": "coworker-scales",
+        "scale": {
+          "labels": {
+            "0": "Doseganje zastavljenih ciljev",
+            "4": "Skrb za dobre odnose v ekipi"
+          }
+        },
+        "scaleTitle": "",
+        "title": "Kaj je po tvoji oceni izbranim sodelavcem bolj pomembno?",
+        "help": "Pozor! Pri tem vprašanju gre za izražene stabilne preference in ni pravilnih in napačnih odgovorov."
+      },
+      "41": {
+        "id": "CQ48",
+        "type": "coworker-textblocks",
+        "textblockTitle": "$",
+        "title": "Kaj je največja prednost izbranih sodelavcev (kaj je njihova supermoč)?",
+        "help": "Če želiš, lahko izbranim sodelavcem pustiš anonimno sporočilo in jim poveš, kaj si misliš o njih."
+      },
+      "42": {
+        "id": "CQ49",
+        "type": "coworker-textblocks",
+        "textblockTitle": "$",
+        "title": "Kaj bi izbranim sodelavcem svetoval ali sporočil, da bi jim pomagal pri osebni in/ali strokovni rasti, razvoju in napredku?",
+        "help": "Če želiš, lahko izbranim sodelavcem pustiš anonimno sporočilo in jim poveš, kaj si misliš o njih."
+      }
+    }
+  },
+  "selftest": {
+    "id": "selftest-insight-with-360-1",
+    "title": "Samoocena",
+    "description": "Vprašalnik za samooceno omogoči izdelavo tvojega 'avtoportreta'. Tako boš dobil vpogled v svoje vloge in kompetence še iz druge perspektive. Videl boš, kako dobro se poznaš, kako te vidijo drugi in katere so tvoje prednosti. Za razliko od vprašalnika za oceno sodelavcev ta vprašalnik ni anonimen, saj ga moramo povezati s tabo za pripravo poročila.\n\n*V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
+    "type": "selftest",
+    "questions": {
+      "0": {
+        "id": "DISCLAIMER01",
+        "type": "radios",
+        "radios": {
+          "0": {
+            "label": "Razumem"
+          }
+        },
+        "title": "",
+        "help": "",
+        "options": {
+          "0": {
+            "id": "DISCLAIMER01",
+            "title": "Z izpolnitvijo tega vprašalnika prostovoljno, izrecno in informirano soglašate, da PODJETJE in pogodbeni obdelovalec Quantifly, d.o.o. na podlagi točke a) 6/I člena Splošne uredbe o varstvu podatkov vaše osebne podatke obdela in hrani v obsegu, ki je potreben za zagotavljanje storitev HR analitike in diagnostike ter implementacije ukrepov, in v skladu s Splošnimi pogoji poslovanja in Izjavo o zasebnosti družbe Quantifly, d.o.o.. Prav tako se strinjate, da ima PODJETJE popoln in neomejen vpogled v rezultate quantifly analize.\n\nSplošne pogoje poslovanja in Izjavo o zasebnosti družbe Quantifly d.o.o. najdete na spletnem mestu https://www.quantifly.si/. Vaši podatki se hranijo dokler je to potrebno za zagotavljanje namena storitev, oziroma dokler ne umaknete soglasja za obdelavo in hrambo vaših osebnih podatkov. To lahko storite s sporočilom na email naslov PODJETJA. Pravice iz naslova varstva osebnih podatkov lahko uveljavim z zahtevo pooblaščeni osebi za varstvo osebnih podatkov v PODJETJU."
+          }
+        }
+      },
+      "1": {
+        "type": "selftest-introduction"
+      },
+      "2": {
+        "type": "selftest-connections",
+        "title": ""
+      },
+      "3": {
+        "id": "CQ6",
+        "type": "selectPeople",
+        "title": "S katerimi sodelavci največ komuniciraš?",
+        "help": "Pri tem vprašanju razmisli tako o neformalni komunikaciji pri/izven dela kot tudi o komunikaciji pri delu (npr. z nadrejenimi in podrejenimi sodelavci)."
+      },
+      "4": {
+        "id": "COQ1",
+        "type": "selectPeople",
+        "title": "Na koga znotraj svoje ekipe se lahko vedno obrneš po pomoč pri projektih in problemih?",
+        "help": "Izberi vsaj enega sodelavca."
+      },
+      "5": {
+        "id": "COQ2",
+        "type": "selectPeople",
+        "title": "Na koga se lahko običajno obrneš za pomoč pri projektih, ki vključujejo sodelovanje z drugimi ekipami?",
+        "help": "Izberi vsaj enega sodelavca."
+      },
+      "6": {
+        "id": "SQAvgHours",
+        "type": "radios",
+        "radios": {
+          "0": {
+            "label": "0 dni"
+          },
+          "1": {
+            "label": "1 dan"
+          },
+          "2": {
+            "label": "2 dneva"
+          },
+          "3": {
+            "label": "3 dni"
+          },
+          "4": {
+            "label": "4 dni"
+          },
+          "5": {
+            "label": "5 dni"
+          }
+        },
+        "title": "",
+        "help": "",
+        "options": {
+          "0": {
+            "id": "SQAvgHours",
+            "title": "V povprečju koliko dni v tednu delaš na daljavo (od doma)?"
+          }
+        }
+      },
+      "7": {
+        "type": "scales",
+        "scale": {
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "SQMultiProject",
+            "title": "Delam na več projektih hkrati."
+          },
+          "1": {
+            "id": "SQOvertime",
+            "title": "Za moje delo mi pogosto zmanjkuje časa, zato delam več kot 8h dnevno."
+          },
+          "2": {
+            "id": "SQUnwork",
+            "title": "Nimamo jasno opredeljenih vlog, zato pogosto počnem stvari, ki naj ne bi bile moje delo."
+          },
+          "3": {
+            "id": "SQStress",
+            "title": "Pri delu sem izpostavljen stresnim situacijam."
+          },
+          "4": {
+            "id": "SQOverwork",
+            "title": "Pri svojem delu se počutim preobremenjeno."
+          }
+        },
+        "title": "",
+        "help": "Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+      },
+      "8": {
+        "type": "scales",
+        "scale": {
+          "step": ".1",
+          "labels": {
+            "0": "Nikoli",
+            "1": "Redko",
+            "2": "Včasih",
+            "3": "Pogosto",
+            "4": "Vedno"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "SQ21",
+            "title": "Delovne naloge opravljam zbrano in predano."
+          },
+          "1": {
+            "id": "SQ28",
+            "title": "Pri delu posvečam pozornost različnim potrebam in čustvom sodelavcev."
+          },
+          "2": {
+            "id": "SQ35",
+            "title": "V stresnih in težavnih situacijah pri delu se (zlahka) osredotočim na reševanje problema."
+          },
+          "3": {
+            "id": "SQ36",
+            "title": "Poskrbim, da se sodelavci počutijo dobrodošle in sprejete."
+          },
+          "4": {
+            "id": "SQ25",
+            "title": "Storim vse, kar je potrebno, da dosežem zastavljene cilje."
+          },
+          "5": {
+            "id": "SQ33",
+            "title": "Prevzamem odgovornost za napake in neuspeh sebe in/ali svoje ekipe."
+          },
+          "6": {
+            "id": "SQ16",
+            "title": "Naloge opravim natančno in brez napak."
+          },
+          "7": {
+            "id": "SQ23",
+            "title": "Opazim načine, kako lahko delovni proces še izboljšam."
+          },
+          "8": {
+            "id": "SQ18",
+            "title": "Sodelavci se name obračajo za strokovne nasvete."
+          },
+          "9": {
+            "id": "SQ37",
+            "title": "Druge vključujem v odločitve."
+          },
+          "10": {
+            "id": "SQ17",
+            "title": "Delo opravim v zastavljenih rokih."
+          },
+          "11": {
+            "id": "SQ29",
+            "title": "Pravilno prepoznavam razloge za občutja, čustva in potrebe sodelavcev."
+          },
+          "12": {
+            "id": "SQ20",
+            "title": "Za delovne naloge predvidim dovolj časa."
+          },
+          "13": {
+            "id": "SQ27",
+            "title": "S svojimi idejami in načrti se trudim navdihniti in motivirati druge."
+          },
+          "14": {
+            "id": "SQ22",
+            "title": "Iščem nove ideje in rešitve za izboljšanje produkta/storitve."
+          },
+          "15": {
+            "id": "SQ19",
+            "title": "Moje strokovno znanje zadostuje delovnim nalogam, s katerimi se srečujem pri svojem delu."
+          },
+          "16": {
+            "id": "SQ31",
+            "title": "Z lahkoto spremenim svoj način dela, če situacija pri delu to zahteva od mene."
+          },
+          "17": {
+            "id": "SQ24",
+            "title": "Za opravljanje delovnih nalog namenim dodatni čas in napor."
+          },
+          "18": {
+            "id": "SQ26",
+            "title": "Svoje ideje sporočam jasno in razumljivo."
+          },
+          "19": {
+            "id": "SQ38",
+            "title": "Aktivno iščem načine, kako lahko rastem in se izpopolnjujem kot oseba."
+          },
+          "20": {
+            "id": "SQ30",
+            "title": "Brez težav prilagodim svoje mnenje ali način razmišljanja, če se spremeni situacija pri delu."
+          },
+          "21": {
+            "id": "SQ32",
+            "title": "Prevzamem pobudo za iskanje rešitve, ko se soočimo s problemom pri delu."
+          },
+          "22": {
+            "id": "SQ34",
+            "title": "Zmorem ohraniti mirnost v stresnih in težavnih situacijah pri delu."
+          },
+          "23": {
+            "id": "SQ39",
+            "title": "Aktivno iščem načine za pridobivanje novega znanja in veščin za delo."
+          }
+        },
+        "title": "",
+        "help": "Klikni na drsnik in ga premakni na mesto na traku, ki najbolje odraža izraženost vedenja pri tebi."
+      },
+      "9": {
+        "id": "SQXX",
+        "type": "drag-bucket",
+        "title": "Katere od naslednjih vlog te najbolje opisujejo?",
+        "help": "Izberi do tri vloge.",
+        "options": {
+          "0": {
+            "title": "Ekipni vodja",
+            "description": "Vodi, usmerja, nadzira, organizira, koordinira in daje navodila, strukturira naloge, vnaša in skrbi za red, povezuje ekipo, spodbuja delo in dejavnosti, vodi ekipo k zaključevanju nalog in doseganju ciljev."
+          },
+          "1": {
+            "title": "Motivator",
+            "description": "Deluje v vlogi “drugega poveljnika” ekipe ali upravitelja nalog, ki podpira ekipno vodjo. Stimulira in spodbuja ekipo k delu in jo napolni z energijo, da vztraja pri delu."
+          },
+          "2": {
+            "title": "Iskalec moči",
+            "description": "Prevladuje, je avtokratski, išče moč in prepoznavnost preko dominantnosti, uveljavlja avtoriteto ali premoč, prekinja, moti doprinose drugih, druge podcenjuje, teži k prevladi in prevzemu moči, nasprotuje vodji, je agresiven do drugih."
+          },
+          "3": {
+            "title": "Kritik",
+            "description": "Prevzema vlogo kritika, iskalca napak, zaviralca ali hudičevega odvetnika, se ne strinja, nasprotuje, je ciničen, negativističen in trmast, obsoja druge, je pogosto v nasprotju s preostalo ekipo, v drugih zbuja odpor in obrambo. Je uporabna vloga pri odločanju."
+          },
+          "4": {
+            "title": "Pritegovalec pozornosti",
+            "description": "Išče pozornost in dostopne vire, a naredi malo. Išče pozornost brez odgovornosti, se izogiba dejanskemu delu, od drugih pričakuje, da bodo drugi opravili delo, prikriva informacije, dokler od njih nima osebne koristi, “resen premislek” prepušča drugim, pri drugih išče sočutje, izraža osebna mnenja in poglede."
+          },
+          "5": {
+            "title": "Črnoglednež",
+            "description": "Kaže negativno čustveno vedenje, ničesar ne prispeva ekipi, izkazuje “ne zmorem” odnos, izkazuje napetost, se umika, se pritožuje in godrnja, spodkopava ekipni duh, trud vidi kot izgubo časa."
+          },
+          "6": {
+            "title": "Družabnež",
+            "description": "Prispeva k skupinski harmoniji in vzdrževanju medosebnih odnosov, sprošča napetost, zbija šale, posreduje pri konfliktih, hvali druge, izkazuje toplino in solidarnost, se zavzema za ekipno povezanost, podpira druge in vzdržuje vzdušje/moralo v ekipi."
+          },
+          "7": {
+            "title": "Koordinator",
+            "description": "Koordinira delovne dejavnosti znotraj in izven ekipe, spodbuja ekipno delovanje in ekipne funkcije, koordinira dejavnosti, pojasnjuje naloge, skrbi za odprto komunikacijo, spodbuja sodelovanje vseh in predstavlja ideje znotraj in izven ekipe."
+          },
+          "8": {
+            "title": "Sledilec",
+            "description": "Sprejema dejavnosti sledilca, kot so poslušanje, strinjanje in sodelovanje. Vključuje se in sodeluje v diskusijah in skupnih odločitvah, je dober poslušalec in povezovalec, prisluhne idejam drugih in jih nadgrajuje, sprejema in se podredi danim nalogam, išče sodelovanje in se izogiba konfliktom."
+          },
+          "9": {
+            "title": "Ekipni igralec",
+            "description": "Podpira uspešno zaključevanje ekipnih nalog, pripomore k doseganju ekipnih ciljev, uresničuje načrte, pomaga ekipi, povzema in razjasnjuje, beleži dejavnosti, procese in dosežke ekipe, prevzema pobudo, da zagotovi uspeh ekipe, združuje informacije, se pripravlja na ekipna srečanja."
+          },
+          "10": {
+            "title": "Presojevalec",
+            "description": "Pregleduje in presoja ekipne rezultate, analizira in ocenjuje predloge, je previden in natančen, se osredotoča na dejstva in številke določene naloge."
+          },
+          "11": {
+            "title": "Reševalec težav",
+            "description": "Se vključuje v tvorjenje idej in reševanje problemov, prosi za informacije in vpraša za mnenje ali pojasnitev, postreže z dejstvi, informacijami in mnenjem, izpostavlja protislovja in jih razjasnjuje, inovira, predlaga rešitve, ekipo usmerja k nalogi, deluje po principu “ponovim - razjasnim - potrdim”."
+          },
+          "12": {
+            "title": "Dovrševalec",
+            "description": "Izvaja na podrobnosti osredotočene dejavnosti, ki so povezane z dovrševanjem nalog, se drži postopkov in postavljenih rokov, je usmerjen na podrobnosti, vesten in redoljuben, se drži svojih zadolžitev, izvaja nedvoumne in rutinske naloge."
+          }
+        }
+      },
+      "10": {
+        "type": "scales",
+        "scale": {
+          "step": ".1",
+          "labels": {
+            "0": "Cilj",
+            "4": "Ekipa"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "SQ40",
+            "title": "Kaj ti je bolj pomembno?",
+            "labels": {
+              "0": "Doseganje zastavljenih ciljev",
+              "4": "Skrb za dobre odnose v ekipi"
+            }
+          }
+        },
+        "title": "Pozor! Pri naslednjih dveh vprašanjih gre za tvoj individualni odnos do dela in ni pravilnih odgovorov, zato bodi čim bolj iskren.",
+        "help": ""
+      }
+    }
+  },
+  "organization": {
+    "id": "organization-insight-with-360-3",
+    "title": "Ocena podjetja",
+    "description": "Vprašalnik za oceno podjetja omogoča anonimno podajanje tvojega osebnega pogleda na dinamiko ekipe in splošno uspešnost podjetja. Tvoje odgovore bomo združili z odgovori drugih in tako ustvarili popolno sliko o notranjem delovanju podjetja in o ekipnem duhu, prisotnemu v času ocenjevanja.\n\n*Opomba: V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
+    "type": "organization",
+    "questions": {
+      "0": {
+        "id": "COQXTEAM2",
+        "type": "selectOption",
+        "options": {
+          "0": {
+            "value": "team-1",
+            "label": "Ekipa 1",
+            "description": ""
+          },
+          "1": {
+            "value": "team-2",
+            "label": "Ekipa 2",
+            "description": ""
+          }
+        },
+        "title": "V katero področje sodiš?",
+        "help": ""
+      },
+      "1": {
+        "type": "textblocks",
+        "options": {
+          "0": {
+            "id": "COQ3",
+            "title": "Pri delu me najbolj moti/frustrira:"
+          },
+          "1": {
+            "id": "COQ4",
+            "title": "Če bi lahko spremenil zgolj eno stvar, da bi povečal produktivnost podjetja, bi:"
+          },
+          "2": {
+            "id": "COQ5",
+            "title": "Če bi moral izbrati zgolj eno stvar, ki mi je najbolj všeč pri podjetju, bi to bila:"
+          }
+        },
+        "help": "Če želiš, lahko spodaj pustiš anonimna sporočila in poveš, kaj si misliš o podjetju"
+      },
+      "2": {
+        "type": "scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "COQ6",
+            "title": "V podjetju ostajam, ker se čutim navezanega na podjetje."
+          },
+          "1": {
+            "id": "COQ7",
+            "title": "V podjetju ostajam, ker se čutim navezanega na svoje delo."
+          },
+          "2": {
+            "id": "COQ8",
+            "title": "V podjetju ostajam, ker so vse druge karierne priložnosti slabše ali jih ni."
+          },
+          "3": {
+            "id": "COQ9",
+            "title": "V podjetju ostajam, ker sem vanj že preveč vložil."
+          },
+          "4": {
+            "id": "COQ10",
+            "title": "V podjetju ostajam, ker do njega čutim moralno dolžnost in obvezo."
+          },
+          "5": {
+            "id": "COQ11",
+            "title": "V podjetju ostajam, ker bi svoje bližnje sicer razočaral."
+          },
+          "6": {
+            "id": "COQ12",
+            "title": "Verjamem, da vizija in misija podjetja vodita v njegov uspeh."
+          },
+          "7": {
+            "id": "COQ13",
+            "title": "V podjetju živimo vizijo in cilje vsak dan."
+          },
+          "8": {
+            "id": "COQ14",
+            "title": "Z delom v podjetju sem zadovoljen."
+          },
+          "9": {
+            "id": "COQ15",
+            "title": "Delu v podjetju zelo rad posvečam svoj čas in trud, tudi ko podjetje ne posluje dobro."
+          },
+          "10": {
+            "id": "COQ16",
+            "title": "Delo v podjetju mi je pogosto v izziv, v njem vidim smisel in pomen."
+          },
+          "11": {
+            "id": "COQ17",
+            "title": "O svojih težavah zlahka spregovorim znotraj ekipe."
+          },
+          "12": {
+            "id": "COQ18",
+            "title": "Verjamem, da moji sodelavci z veseljem delajo z mano."
+          }
+        },
+        "title": "",
+        "help": "Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+      },
+      "3": {
+        "id": "COQ19",
+        "type": "drag-bucket",
+        "title": "",
+        "help": "Izberi dejavnike, ki ti predstavljajo največji vir motivacije. Dejavnike razvrsti tako, da bo njihov končni vrstni red odražal, kako pomembni so ti izbrani dejavniki. Izberi vsaj en dejavnik.",
+        "options": {
+          "0": {
+            "title": "Zanimivo, pomembno in navdihujoče delo"
+          },
+          "1": {
+            "title": "Razvoj kompetenc in znanj ter karierno napredovanje"
+          },
+          "2": {
+            "title": "Samostojnost in ustvarjalnost pri delu"
+          },
+          "3": {
+            "title": "Ravnotežje med delom in prostim časom"
+          },
+          "4": {
+            "title": "Dobra plača"
+          },
+          "5": {
+            "title": "Varnost zaposlitve"
+          },
+          "6": {
+            "title": "Ostali cenijo moje delo"
+          },
+          "7": {
+            "title": "Občutek vključenosti v odločitve podjetja"
+          },
+          "8": {
+            "title": "Zaupanje v vodstvo podjetja"
+          },
+          "9": {
+            "title": "Podjetje je hitro rastoče in inovativno"
+          },
+          "10": {
+            "title": "Red in disciplina"
+          },
+          "11": {
+            "title": "Jasna vizija podjetja"
+          },
+          "12": {
+            "title": "Empatija, razumevanje in pomoč pri osebnih težavah"
+          },
+          "13": {
+            "title": "Osebna zvestoba ekipi"
+          },
+          "14": {
+            "title": "Dobri delovni pogoji"
+          }
+        }
+      },
+      "4": {
+        "id": "MOTXX",
+        "type": "radios",
+        "radios": {
+          "0": {
+            "label": "Nezadovoljen"
+          },
+          "1": {
+            "label": "Nevtralen"
+          },
+          "2": {
+            "label": "Zadovoljen"
+          }
+        },
+        "title": "",
+        "help": "Spodaj so navedeni različni dejavniki, ki so pomembni na delovnem mestu. Označi, ali si zadovoljen s temi dejavniki na svojem trenutnem delovnem mestu.",
+        "options": {
+          "0": {
+            "id": "MOT1",
+            "title": "Zanimivo, pomembno in navdihujoče delo"
+          },
+          "1": {
+            "id": "MOT2",
+            "title": "Razvoj kompetenc in znanj ter karierno napredovanje"
+          },
+          "2": {
+            "id": "MOT3",
+            "title": "Samostojnost in ustvarjalnost pri delu"
+          },
+          "3": {
+            "id": "MOT4",
+            "title": "Ravnotežje med delom in prostim časom"
+          },
+          "4": {
+            "id": "MOT5",
+            "title": "Dobra plača"
+          },
+          "5": {
+            "id": "MOT6",
+            "title": "Varnost zaposlitve"
+          },
+          "6": {
+            "id": "MOT7",
+            "title": "Ostali cenijo moje delo"
+          },
+          "7": {
+            "id": "MOT8",
+            "title": "Občutek vključenosti v odločitve podjetja"
+          },
+          "8": {
+            "id": "MOT9",
+            "title": "Zaupanje v vodstvo podjetja"
+          },
+          "9": {
+            "id": "MOT10",
+            "title": "Podjetje je hitro rastoče in inovativno"
+          },
+          "10": {
+            "id": "MOT11",
+            "title": "Red in disciplina"
+          },
+          "11": {
+            "id": "MOT12",
+            "title": "Jasna vizija podjetja"
+          },
+          "12": {
+            "id": "MOT13",
+            "title": "Empatija, razumevanje in pomoč pri osebnih težavah"
+          },
+          "13": {
+            "id": "MOT14",
+            "title": "Osebna zvestoba ekipi"
+          },
+          "14": {
+            "id": "MOT15",
+            "title": "Dobri delovni pogoji"
+          }
+        }
+      },
+      "5": {
+        "type": "scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "TI1",
+            "title": "Nameravam zapustiti organizacijo."
+          },
+          "1": {
+            "id": "TI2",
+            "title": "V naslednjih mesecih nameravam vložiti veliko truda v iskanje nove zaposlitve."
+          },
+          "2": {
+            "id": "TI3",
+            "title": "Pogosto razmišljam o odhodu."
+          }
+        },
+        "title": "",
+        "help": "Spodaj so navedene trditve. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+      },
+      "6": {
+        "type": "scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "COQ32",
+            "title": "Jasno razumem, kakšna so pričakovanja ekipe do mene in mojih nalog."
+          },
+          "1": {
+            "id": "COQ34",
+            "title": "Nič ni narobe, če kdaj naredim napako."
+          },
+          "2": {
+            "id": "COQ35",
+            "title": "Če gre kaj narobe, kot ekipa skupaj odkrivamo sistemski razlog za težavo."
+          },
+          "3": {
+            "id": "COQ36",
+            "title": "Vsi člani ekipe lahko izpostavimo težave ali izzive, ki se v ekipi pojavljajo."
+          },
+          "4": {
+            "id": "COQ37",
+            "title": "Člani ekipe nikogar ne zavračamo zaradi drugačnosti."
+          },
+          "5": {
+            "id": "COQ38",
+            "title": "Menim, da lahko znotraj ekipe varno prevzamem različna tveganja."
+          },
+          "6": {
+            "id": "COQ39",
+            "title": "Druge člane z lahkoto prosim za pomoč."
+          },
+          "7": {
+            "id": "COQ40",
+            "title": "V ekipi nihče ne bi namerno deloval proti meni."
+          },
+          "8": {
+            "id": "COQ41",
+            "title": "Menim, da so moje edinstvene sposobnosti in talenti znotraj ekipe cenjeni."
+          },
+          "9": {
+            "id": "COQ42",
+            "title": "Pri delu s člani ekipe so moje edinstvene sposobnosti in talenti ustrezno izkoriščeni."
+          }
+        },
+        "title": "",
+        "help": "Naslednja vprašanja se nanašajo na tvoje počutje v ekipi. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+      },
+      "7": {
+        "type": "scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "COQ43",
+            "title": "Sam se lahko odločim, kako bom opravil svoje delo."
+          },
+          "1": {
+            "id": "COQ44",
+            "title": "Imam vpliv na razporeditev svojih delovnih aktivnosti."
+          },
+          "2": {
+            "id": "COQ45",
+            "title": "Imam vpliv na določanje ciljev svojega dela."
+          },
+          "3": {
+            "id": "COQ46",
+            "title": "Sam si lahko izbiram metode, ki jih bom uporabil pri svojem delu."
+          }
+        },
+        "title": "",
+        "help": "Spodnje trditve se nanašajo na tvoje delovne aktivnosti. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+      },
+      "8": {
+        "type": "scales",
+        "scale": {
+          "labels": {
+            "0": "Sploh se ne strinjam",
+            "1": "Se ne strinjam",
+            "2": "Niti-niti",
+            "3": "Se strinjam",
+            "4": "Popolnoma se strinjam"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "COQ50",
+            "title": "Menim, da ima vodstvo posluh za osebne težave in počutje zaposlenih."
+          }
+        },
+        "title": "",
+        "help": "Spodnje trditve se nanašajo na delovne aktivnosti. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+      },
+      "9": {
+        "type": "scales",
+        "scale": {
+          "labels": {
+            "0": "Nizka",
+            "4": "Visoka"
+          }
+        },
+        "options": {
+          "0": {
+            "id": "COQ51",
+            "title": "Zaznavam, da je stopnja preobremenjenosti moje ekipe:"
+          }
+        },
+        "title": "",
+        "help": ""
+      },
+      "10": {
+        "id": "ENPS1",
+        "type": "radios",
+        "radios": {
+          "0": {
+            "value": "1",
+            "label": "1"
+          },
+          "1": {
+            "value": "2",
+            "label": "2"
+          },
+          "2": {
+            "value": "3",
+            "label": "3"
+          },
+          "3": {
+            "value": "4",
+            "label": "4"
+          },
+          "4": {
+            "value": "5",
+            "label": "5"
+          },
+          "5": {
+            "value": "6",
+            "label": "6"
+          },
+          "6": {
+            "value": "7",
+            "label": "7"
+          },
+          "7": {
+            "value": "8",
+            "label": "8"
+          },
+          "8": {
+            "value": "9",
+            "label": "9"
+          },
+          "9": {
+            "value": "10",
+            "label": "10"
+          }
+        },
+        "title": "",
+        "help": "",
+        "options": {
+          "0": {
+            "id": "ENPS1",
+            "title": "Na lestvici od 1-10 oceni, kako verjetno je, da bi vašo organizacijo/podjetje priporočil kot dobrega delodajalca."
+          }
+        }
+      },
+      "11": {
+        "type": "textblocks",
+        "options": {
+          "0": {
+            "id": "ENPS2",
+            "title": "Pojasni svojo oceno:"
+          }
+        },
+        "help": ""
+      }
+    }
+  }
+}
