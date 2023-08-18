@@ -65,8 +65,8 @@
             "description": "Ovog suradnika biram za MVP, ali ne mogu jasno definirati njegov doprinos niti ga svrstati među ostale razloge. Imam još jedan razlog zašto biram kolegu:"
           }
         },
-        "title": "Zakaj si izbral tega sodelavca?",
-        "help": "Izmed spodaj navedenih razlogov izberi tiste (enega ali več), ki so najbolj vplivali na tvojo izbiro sodelavca."
+        "title": "Zašto ste odabrali ovog suradnika?",
+        "help": "Među dolje navedenim razlozima odaberite one (jedan ili više) koji su najviše utjecali na vaš izbor suradnika."
       },
       "2": {
         "id": "CQ2",
