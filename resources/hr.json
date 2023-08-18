@@ -221,19 +221,19 @@
         "type": "coworkers-drag-bucket",
         "title": "Suradnik je tvoj...",
         "help": "U prvom dijelu obrasca željeli bismo saznati više o vašem odnosu s kolegama i dinamici tima.",
-        "button": "Izberi položaj",
+        "button": "Izaberi položaj",
         "options": {
           "0": {
             "id": "superior",
-            "title": "Nadrejeni"
+            "title": "Nadređeni"
           },
           "1": {
             "id": "subordinate",
-            "title": "Podrejeni"
+            "title": "Podređeni"
           },
           "2": {
             "id": "same_team",
-            "title": "Sodelavec v isti ekipi"
+            "title": "Suradnik u istom timu"
           },
           "3": {
             "id": "same_but_different_team",
