@@ -147,11 +147,11 @@
         "type": "coworkers-drag-bucket",
         "title": "Koja od sljedećih uloga najbolje opisuje suradnika?",
         "help": "Svakom suradniku možete dodijeliti najviše 3 uloge.",
-        "button": "Dodeli vloge",
+        "button": "Dodjelite uloge",
         "options": {
           "0": {
-            "title": "Ekipni vodja",
-            "shortTitle": "Ekipni vodja",
+            "title": "Timski vođa",
+            "shortTitle": "Timski vođa",
             "description": "Vodi, usmerja, nadzira, organizira, koordinira in daje navodila, strukturira naloge, vnaša in skrbi za red, povezuje ekipo, spodbuja delo in dejavnosti, vodi ekipo k zaključevanju nalog in doseganju ciljev."
           },
           "1": {
