@@ -145,8 +145,8 @@
       "8": {
         "id": "CQXXX",
         "type": "coworkers-drag-bucket",
-        "title": "Katere od naslednjih vlog najbolje opisujejo sodelavca?",
-        "help": "Vsakemu izmed sodelavcev lahko dodeliš največ 3 vloge.",
+        "title": "Koja od sljedećih uloga najbolje opisuje suradnika?",
+        "help": "Svakom suradniku možete dodijeliti najviše 3 uloge.",
         "button": "Dodeli vloge",
         "options": {
           "0": {
