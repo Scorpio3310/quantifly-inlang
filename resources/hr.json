@@ -139,8 +139,8 @@
       "7": {
         "id": "CQXX",
         "type": "selectPeopleChooser",
-        "title": "Katere sodelavce boš ocenil?",
-        "help": "Izberi vsaj 1 sodelavca."
+        "title": "Koje ćete suradnike ocijeniti?",
+        "help": "Odaberite barem 1 suradnika."
       },
       "8": {
         "id": "CQXXX",
