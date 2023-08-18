@@ -121,13 +121,13 @@
       "4": {
         "id": "CQ3",
         "type": "selectPeople",
-        "title": "S kom najraje sodeluješ?",
+        "title": "S kim najviše voliš raditi?",
         "help": ""
       },
       "5": {
         "id": "CQ4",
         "type": "selectPeople",
-        "title": "S katerimi sodelavci čutiš v odnosu največ napetosti oziroma imaš z njimi največ konfliktov?",
+        "title": "S kojim kolegama osjećate najviše napetosti u odnosu ili se s njima najviše sukobljavate?",
         "help": ""
       },
       "6": {
