@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@inlang/cli": "^0.13.3"
+  }
+}
