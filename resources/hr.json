@@ -237,7 +237,7 @@
           },
           "3": {
             "id": "same_but_different_team",
-            "title": "Sodelavec v drugi ekipi"
+            "title": "Suradnik u drugom timu"
           }
         }
       },
@@ -246,11 +246,11 @@
         "type": "coworker-scales",
         "scale": {
           "labels": {
-            "0": "Sploh se ne strinjam",
-            "1": "Se ne strinjam",
-            "2": "Niti-niti",
-            "3": "Se strinjam",
-            "4": "Popolnoma se strinjam"
+            "0": "Nikako se ne slažem",
+            "1": "Ne slažem se",
+            "2": "Ni jedno ni drugo",
+            "3": "Slažem se",
+            "4": "Potpuno se slažem"
           }
         },
         "scaleTitle": "",
