@@ -72,8 +72,8 @@
         "id": "CQ2",
         "image": "/assets/images/potential_image.png",
         "type": "selectPeople",
-        "title": "Izberi sodelavce, ki imajo po tvojem mnenju največ neizkoriščenega potenciala.",
-        "help": "To so lahko sodelavci, za katere meniš, da bi lahko prevzeli več nalog in odgovornosti, bi se bolje znašli na drugi poziciji, imajo veliko prostora za strokovni/karierni razvoj ali pa svojega časa na delovnem mestu ne izkoriščajo optimalno."
+        "title": "Birajte kolege koji po vašem mišljenju imaju najviše neiskorištenog potencijala.",
+        "help": "To mogu biti suradnici za koje mislite da bi mogli preuzeti više zadataka i odgovornosti, da bi im bilo bolje na nekoj drugoj poziciji, da imaju puno prostora za profesionalni/karijerni razvoj ili da svoje vrijeme na poslu ne iskorištavaju optimalno."
       },
       "3": {
         "id": "CQ2a",
