@@ -219,8 +219,8 @@
       "9": {
         "id": "CQ8",
         "type": "coworkers-drag-bucket",
-        "title": "Sodelavec je tvoj...",
-        "help": "V prvem delu obrazca bi radi izvedeli več o tvojem odnosu s sodelavci in dinamiki v ekipi.",
+        "title": "Suradnik je tvoj...",
+        "help": "U prvom dijelu obrasca željeli bismo saznati više o vašem odnosu s kolegama i dinamici tima.",
         "button": "Izberi položaj",
         "options": {
           "0": {
