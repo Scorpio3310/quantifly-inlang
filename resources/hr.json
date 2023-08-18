@@ -3,7 +3,7 @@
   "coworkers": {
     "id": "coworkers-insight-with-360-1",
     "title": "Ocjena suradnika",
-    "description": "Vprašalnik omogoči anonimno povratno informacijo o tvoji ekipi. Pri ocenjevanju in povratnih informacijah bodi iskren in neposreden. S tem namreč pomagaš svoji ekipi postati boljši - tako osebno kot tudi profesionalno.\n\n*Opomba: V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
+    "description": "Upitnik omogućuje anonimnu povratnu informaciju o vašem timu. Budite iskreni i izravni sa svojim ocjenama i povratnim informacijama. Na taj način pomažete svom timu da postane bolji – i osobno i profesionalno.\n\n*Opomba: V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
     "type": "coworkers",
     "questions": {
       "0": {
