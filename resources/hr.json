@@ -526,8 +526,8 @@
           }
         },
         "scaleTitle": "",
-        "title": "S svojimi idejami in načrti navdihuje in motivira druge.",
-        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+        "title": "Svojim idejama i planovima inspirira i motivira druge.",
+        "help": "U ovom dijelu procijenite u kojoj se mjeri pojedinačni opis ponašanja tipično odnosi na vaše suradnike."
       },
       "28": {
         "id": "CQ35",
@@ -535,10 +535,10 @@
         "scale": {
           "labels": {
             "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
-            "3": "Pogosto",
-            "4": "Vedno"
+            "1": "Rijetko",
+            "2": "Ponekad",
+            "3": "Često",
+            "4": "Stalno"
           }
         },
         "scaleTitle": "",
