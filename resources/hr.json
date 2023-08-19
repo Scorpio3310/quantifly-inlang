@@ -622,7 +622,7 @@
           }
         },
         "scaleTitle": "",
-        "title": "Prevzame odgovornost za napake in neuspeh sebe in/ali svoje ekipe.",
+        "title": "Preuzima odgovornost za pogreške i neuspjeh sebe i/ili svog tima.",
         "help": "U ovom dijelu procijenite u kojoj se mjeri pojedinačni opis ponašanja tipično odnosi na vaše suradnike."
       },
       "34": {
@@ -630,11 +630,11 @@
         "type": "coworker-scales",
         "scale": {
           "labels": {
-            "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
-            "3": "Pogosto",
-            "4": "Vedno"
+            "0": "Nikada",
+            "1": "Rijetko",
+            "2": "Ponekad",
+            "3": "Često",
+            "4": "Stalno"
           }
         },
         "scaleTitle": "",
