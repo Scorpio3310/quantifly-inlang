@@ -574,7 +574,7 @@
           }
         },
         "scaleTitle": "",
-        "title": "Brez težav prilagodi svoje mnenje ali način razmišljanja, če se spremeni situacija pri delu.",
+        "title": "Lako prilagođava svoje mišljenje ili način razmišljanja ako se situacija na poslu promijeni.",
         "help": "U ovom dijelu procijenite u kojoj se mjeri pojedinačni opis ponašanja tipično odnosi na vaše suradnike."
       },
       "31": {
@@ -582,11 +582,11 @@
         "type": "coworker-scales",
         "scale": {
           "labels": {
-            "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
-            "3": "Pogosto",
-            "4": "Vedno"
+            "0": "Nikada",
+            "1": "Rijetko",
+            "2": "Ponekad",
+            "3": "Često",
+            "4": "Stalno"
           }
         },
         "scaleTitle": "",
