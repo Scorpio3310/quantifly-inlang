@@ -510,7 +510,7 @@
           }
         },
         "scaleTitle": "",
-        "title": "Svoje ideje sporoča na način, ki je drugim jasen in razumljiv.",
+        "title": "Svoje ideje kominicira na način koji je jasan i razumljiv drugima.",
         "help": "U ovom dijelu procijenite u kojoj se mjeri pojedinačni opis ponašanja tipično odnosi na vaše suradnike."
       },
       "27": {
@@ -518,11 +518,11 @@
         "type": "coworker-scales",
         "scale": {
           "labels": {
-            "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
+            "0": "Nikada",
+            "1": "Rijetko",
+            "2": "Ponekad",
             "3": "Pogosto",
-            "4": "Vedno"
+            "4": "Stalno"
           }
         },
         "scaleTitle": "",
