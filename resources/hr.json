@@ -382,19 +382,19 @@
           }
         },
         "scaleTitle": "",
-        "title": "Sodelavci se nanj obračajo za strokovne nasvete.",
-        "help": "V tem delu oceni, v kolikšni meri posamezen opis vedenja tipično velja za tvoje sodelavce."
+        "title": "Suradnici mu se obraćaju za stručne savjete.",
+        "help": "U ovom dijelu procijenite u kojoj se mjeri pojedinačni opis ponašanja tipično odnosi na vaše suradnike."
       },
       "19": {
         "id": "CQ26",
         "type": "coworker-scales",
         "scale": {
           "labels": {
-            "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
-            "3": "Pogosto",
-            "4": "Vedno"
+            "0": "Nikada",
+            "1": "Rijetko",
+            "2": "Ponekad",
+            "3": "Često",
+            "4": "Stalno"
           }
         },
         "scaleTitle": "",
