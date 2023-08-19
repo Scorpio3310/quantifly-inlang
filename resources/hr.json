@@ -430,7 +430,7 @@
           }
         },
         "scaleTitle": "",
-        "title": "Delovne naloge opravlja zbrano in predano.",
+        "title": "Svoje radne zadatke obavlja sabrano i predano.",
         "help": "U ovom dijelu procijenite u kojoj se mjeri pojedinačni opis ponašanja tipično odnosi na vaše suradnike."
       },
       "22": {
@@ -438,11 +438,11 @@
         "type": "coworker-scales",
         "scale": {
           "labels": {
-            "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
-            "3": "Pogosto",
-            "4": "Vedno"
+            "0": "Nikada",
+            "1": "Rijetko",
+            "2": "Ponekad",
+            "3": "Često",
+            "4": "Stalno"
           }
         },
         "scaleTitle": "",
