@@ -761,7 +761,7 @@
         "type": "radios",
         "radios": {
           "0": {
-            "label": "Razumem"
+            "label": "Razumijem"
           }
         },
         "title": "",
@@ -769,7 +769,7 @@
         "options": {
           "0": {
             "id": "DISCLAIMER01",
-            "title": "Z izpolnitvijo tega vprašalnika prostovoljno, izrecno in informirano soglašate, da PODJETJE in pogodbeni obdelovalec Quantifly, d.o.o. na podlagi točke a) 6/I člena Splošne uredbe o varstvu podatkov vaše osebne podatke obdela in hrani v obsegu, ki je potreben za zagotavljanje storitev HR analitike in diagnostike ter implementacije ukrepov, in v skladu s Splošnimi pogoji poslovanja in Izjavo o zasebnosti družbe Quantifly, d.o.o.. Prav tako se strinjate, da ima PODJETJE popoln in neomejen vpogled v rezultate quantifly analize.\n\nSplošne pogoje poslovanja in Izjavo o zasebnosti družbe Quantifly d.o.o. najdete na spletnem mestu https://www.quantifly.si/. Vaši podatki se hranijo dokler je to potrebno za zagotavljanje namena storitev, oziroma dokler ne umaknete soglasja za obdelavo in hrambo vaših osebnih podatkov. To lahko storite s sporočilom na email naslov PODJETJA. Pravice iz naslova varstva osebnih podatkov lahko uveljavim z zahtevo pooblaščeni osebi za varstvo osebnih podatkov v PODJETJU."
+            "title": "Popunjavanjem ovog upitnika dobrovoljno, izričito i informirano pristajete da PODJETJE i ugovorni izvršitelj Quantifly, d.o.o. temeljem točke a) članka 6/I Opće uredbe o zaštiti podataka, Vaši osobni podaci se obrađuju i pohranjuju u mjeri potrebnoj za pružanje usluga kadrovske analitike i dijagnostike te provođenje mjera, a sukladno Općih uvjeta i Izjave o privatnosti Quantifly , d.o.o.. Također ste suglasni da PODJETJE ima potpuni i neograničeni uvid u rezultate kvantifly analize. \n\nOpći uvjeti i Izjava o privatnosti tvrtke Quantifly d.o.o. možete pronaći na web stranici https://www.quantifly.si/. Vaši podaci se čuvaju sve dok je potrebno za osiguranje svrhe usluga, odnosno dok ne povučete privolu za obradu i pohranu Vaših osobnih podataka. To možete učiniti slanjem poruke na e-mail adresu PODJETJA. Svoja prava iz zaštite osobnih podataka mogu ostvariti podnošenjem zahtjeva ovlaštenoj osobi za zaštitu osobnih podataka u PODJETJE"
           }
         }
       },
