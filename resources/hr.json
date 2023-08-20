@@ -1371,23 +1371,23 @@
           },
           "6": {
             "id": "COQ39",
-            "title": "Druge člane z lahkoto prosim za pomoč."
+            "title": "Lako tražim pomoć od drugih članova."
           },
           "7": {
             "id": "COQ40",
-            "title": "V ekipi nihče ne bi namerno deloval proti meni."
+            "title": "Nitko u timu ne bi namjerno radio protiv mene."
           },
           "8": {
             "id": "COQ41",
-            "title": "Menim, da so moje edinstvene sposobnosti in talenti znotraj ekipe cenjeni."
+            "title": "Osjećam da se moje jedinstvene vještine i talenti cijene u timu."
           },
           "9": {
             "id": "COQ42",
-            "title": "Pri delu s člani ekipe so moje edinstvene sposobnosti in talenti ustrezno izkoriščeni."
+            "title": "U radu s članovima tima, moje jedinstvene vještine i talenti dobro se koriste."
           }
         },
         "title": "",
-        "help": "Naslednja vprašanja se nanašajo na tvoje počutje v ekipi. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+        "help": "Sljedeća pitanja odnose se na to kako se osjećate u timu. Pritisnite klizač i povucite ga na poziciju koja najbolje odražava stupanj u kojem se slažete s izjavama u nastavku."
       },
       "7": {
         "type": "scales",
