@@ -1180,25 +1180,25 @@
         "help": "Odaberite čimbenike koji za vas predstavljaju najveći izvor motivacije. Poredajte čimbenike tako da njihov konačni poredak odražava koliko su ti odabrani čimbenici važni. Odaberite barem jedan faktor.",
         "options": {
           "0": {
-            "title": "Zanimivo, pomembno in navdihujoče delo"
+            "title": "Zanimljiv, važan i inspirativan rad"
           },
           "1": {
-            "title": "Razvoj kompetenc in znanj ter karierno napredovanje"
+            "title": "Razvoj kompetencija i vještina te napredovanje u karijeri"
           },
           "2": {
-            "title": "Samostojnost in ustvarjalnost pri delu"
+            "title": "Samostalnost i kreativnost u radu"
           },
           "3": {
-            "title": "Ravnotežje med delom in prostim časom"
+            "title": "Ravnoteža između posla i slobodnog vremena"
           },
           "4": {
-            "title": "Dobra plača"
+            "title": "Dobra plata"
           },
           "5": {
-            "title": "Varnost zaposlitve"
+            "title": "Sigurnost radnog mjesta"
           },
           "6": {
-            "title": "Ostali cenijo moje delo"
+            "title": "Ostali cijene moj rad"
           },
           "7": {
             "title": "Občutek vključenosti v odločitve podjetja"
