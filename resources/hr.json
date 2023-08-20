@@ -783,14 +783,14 @@
       "3": {
         "id": "CQ6",
         "type": "selectPeople",
-        "title": "S katerimi sodelavci največ komuniciraš?",
-        "help": "Pri tem vprašanju razmisli tako o neformalni komunikaciji pri/izven dela kot tudi o komunikaciji pri delu (npr. z nadrejenimi in podrejenimi sodelavci)."
+        "title": "S kojim suradnicima najviše komunicirate?",
+        "help": "U ovom pitanju uzmite u obzir i neformalnu komunikaciju na/izvan posla kao i komunikaciju na poslu (npr. s nadređenima i podređenima)."
       },
       "4": {
         "id": "COQ1",
         "type": "selectPeople",
-        "title": "Na koga znotraj svoje ekipe se lahko vedno obrneš po pomoč pri projektih in problemih?",
-        "help": "Izberi vsaj enega sodelavca."
+        "title": "Kome se u svom timu uvijek možete obratiti za pomoć oko projekata i problema?",
+        "help": "Odaberite barem jednog suradnika."
       },
       "5": {
         "id": "COQ2",
