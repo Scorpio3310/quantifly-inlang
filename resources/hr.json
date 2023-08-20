@@ -1167,17 +1167,17 @@
           },
           "12": {
             "id": "COQ18",
-            "title": "Verjamem, da moji sodelavci z veseljem delajo z mano."
+            "title": "Vjerujem da moji suradnici uživaju raditi sa mnom."
           }
         },
         "title": "",
-        "help": "Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+        "help": "Pritisnite klizač i povucite ga na poziciju koja najbolje odražava stupanj u kojem se slažete s izjavama u nastavku."
       },
       "3": {
         "id": "COQ19",
         "type": "drag-bucket",
         "title": "",
-        "help": "Izberi dejavnike, ki ti predstavljajo največji vir motivacije. Dejavnike razvrsti tako, da bo njihov končni vrstni red odražal, kako pomembni so ti izbrani dejavniki. Izberi vsaj en dejavnik.",
+        "help": "Odaberite čimbenike koji za vas predstavljaju najveći izvor motivacije. Poredajte čimbenike tako da njihov konačni poredak odražava koliko su ti odabrani čimbenici važni. Odaberite barem jedan faktor.",
         "options": {
           "0": {
             "title": "Zanimivo, pomembno in navdihujoče delo"
