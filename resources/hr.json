@@ -738,8 +738,8 @@
         "id": "CQ48",
         "type": "coworker-textblocks",
         "textblockTitle": "$",
-        "title": "Kaj je največja prednost izbranih sodelavcev (kaj je njihova supermoč)?",
-        "help": "Če želiš, lahko izbranim sodelavcem pustiš anonimno sporočilo in jim poveš, kaj si misliš o njih."
+        "title": "Što je najveća prednost odabranih suradnika (koja je njihova supermoć)?",
+        "help": "Ukoliko želite, odabranim suradnicima možete ostaviti anonimnu poruku i reći im što mislite o njima."
       },
       "42": {
         "id": "CQ49",
