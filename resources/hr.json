@@ -745,14 +745,14 @@
         "id": "CQ49",
         "type": "coworker-textblocks",
         "textblockTitle": "$",
-        "title": "Kaj bi izbranim sodelavcem svetoval ali sporočil, da bi jim pomagal pri osebni in/ali strokovni rasti, razvoju in napredku?",
-        "help": "Če želiš, lahko izbranim sodelavcem pustiš anonimno sporočilo in jim poveš, kaj si misliš o njih."
+        "title": "Što biste savjetovali ili poručili odabranim suradnicima kako bi im pomogli u osobnom i/ili profesionalnom rastu, razvoju i napredovanju?",
+        "help": "Ukoliko želite, odabranim suradnicima možete ostaviti anonimnu poruku i reći im što mislite o njima."
       }
     }
   },
   "selftest": {
     "id": "selftest-insight-with-360-1",
-    "title": "Samoocena",
+    "title": "Samoprocjena",
     "description": "Vprašalnik za samooceno omogoči izdelavo tvojega 'avtoportreta'. Tako boš dobil vpogled v svoje vloge in kompetence še iz druge perspektive. Videl boš, kako dobro se poznaš, kako te vidijo drugi in katere so tvoje prednosti. Za razliko od vprašalnika za oceno sodelavcev ta vprašalnik ni anonimen, saj ga moramo povezati s tabo za pripravo poročila.\n\n*V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
     "type": "selftest",
     "questions": {
