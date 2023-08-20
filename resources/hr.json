@@ -1084,7 +1084,7 @@
             "description": ""
           }
         },
-        "title": "V katero področje sodiš?",
+        "title": "Kojem području pripadate?",
         "help": ""
       },
       "1": {
@@ -1092,27 +1092,27 @@
         "options": {
           "0": {
             "id": "COQ3",
-            "title": "Pri delu me najbolj moti/frustrira:"
+            "title": "Što me najviše živcira/frustrira na poslu:"
           },
           "1": {
             "id": "COQ4",
-            "title": "Če bi lahko spremenil zgolj eno stvar, da bi povečal produktivnost podjetja, bi:"
+            "title": "Kad biste mogli promijeniti samo jednu stvar kako biste povećali produktivnost svoje tvrtke, to bi bilo:"
           },
           "2": {
             "id": "COQ5",
-            "title": "Če bi moral izbrati zgolj eno stvar, ki mi je najbolj všeč pri podjetju, bi to bila:"
+            "title": "Kad bih morao izabrati samo jednu stvar koja mi se najviše sviđa kod tvrtke, bila bi to:"
           }
         },
-        "help": "Če želiš, lahko spodaj pustiš anonimna sporočila in poveš, kaj si misliš o podjetju"
+        "help": "Ako želite, ispod možete ostaviti anonimne poruke i reći što mislite o tvrtki"
       },
       "2": {
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Sploh se ne strinjam",
-            "1": "Se ne strinjam",
-            "2": "Niti-niti",
-            "3": "Se strinjam",
+            "0": "Potpuno se ne slažem",
+            "1": "Ne slažem se",
+            "2": "Nemam mišljenje",
+            "3": "Slažem se",
             "4": "Popolnoma se strinjam"
           }
         },
