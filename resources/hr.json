@@ -1439,7 +1439,7 @@
           }
         },
         "title": "",
-        "help": "Spodnje trditve se nanašajo na delovne aktivnosti. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+        "help": "Dolje navedene izjave odnose se na radne aktivnosti. Pritisnite klizač i povucite ga na poziciju koja najbolje odražava stupanj u kojem se slažete s izjavama u nastavku."
       },
       "9": {
         "type": "scales",
@@ -1452,7 +1452,7 @@
         "options": {
           "0": {
             "id": "COQ51",
-            "title": "Zaznavam, da je stopnja preobremenjenosti moje ekipe:"
+            "title": "Smatram da je razina preopterećenosti mog tima:"
           }
         },
         "title": "",
@@ -1508,7 +1508,7 @@
         "options": {
           "0": {
             "id": "ENPS1",
-            "title": "Na lestvici od 1-10 oceni, kako verjetno je, da bi vašo organizacijo/podjetje priporočil kot dobrega delodajalca."
+            "title": "Na ljestvici od 1 do 10 ocijenite kolika je vjerojatnost da bih vašu organizaciju/tvrtku preporučio kao dobrog poslodavca."
           }
         }
       },
@@ -1517,7 +1517,7 @@
         "options": {
           "0": {
             "id": "ENPS2",
-            "title": "Pojasni svojo oceno:"
+            "title": "Objasnite svoju ocjenu:"
           }
         },
         "help": ""
