@@ -753,7 +753,7 @@
   "selftest": {
     "id": "selftest-insight-with-360-1",
     "title": "Samoprocjena",
-    "description": "Vprašalnik za samooceno omogoči izdelavo tvojega 'avtoportreta'. Tako boš dobil vpogled v svoje vloge in kompetence še iz druge perspektive. Videl boš, kako dobro se poznaš, kako te vidijo drugi in katere so tvoje prednosti. Za razliko od vprašalnika za oceno sodelavcev ta vprašalnik ni anonimen, saj ga moramo povezati s tabo za pripravo poročila.\n\n*V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
+    "description": "Upitnik za samoprocjenu omogućuje vam da napravite svoj 'autoportret'. Na taj ćete način dobiti uvid u svoje uloge i kompetencije iz druge perspektive. Vidjet ćete koliko dobro poznajete sebe, kako vas vide drugi i koje su vaše prednosti. Za razliku od upitnika za ocjenu zaposlenika, ovaj upitnik nije anoniman, jer ga moramo povezati s vama za izradu izvješća.\n*U upitniku, radi veće čitljivosti, koristimo gramatički oblik muškog roda kao neutralan za sve rodne identitete.",
     "type": "selftest",
     "questions": {
       "0": {
