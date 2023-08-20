@@ -1231,13 +1231,13 @@
         "type": "radios",
         "radios": {
           "0": {
-            "label": "Nezadovoljen"
+            "label": "Nezadovoljan"
           },
           "1": {
-            "label": "Nevtralen"
+            "label": "Neutralan"
           },
           "2": {
-            "label": "Zadovoljen"
+            "label": "Zadovoljan"
           }
         },
         "title": "",
