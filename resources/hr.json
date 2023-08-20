@@ -826,7 +826,7 @@
         "options": {
           "0": {
             "id": "SQAvgHours",
-            "title": "V povprečju koliko dni v tednu delaš na daljavo (od doma)?"
+            "title": "U prosjeku, koliko dana u tjednu radite na daljinu (od kuće)?"
           }
         }
       },
@@ -834,11 +834,11 @@
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
-            "3": "Pogosto",
-            "4": "Vedno"
+            "0": "Nikada",
+            "1": "Rijetko",
+            "2": "Ponekad",
+            "3": "Često",
+            "4": "Stalno"
           }
         },
         "options": {
