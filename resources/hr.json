@@ -1419,23 +1419,23 @@
           }
         },
         "title": "",
-        "help": "Spodnje trditve se nanašajo na tvoje delovne aktivnosti. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+        "help": "Dolje navedene izjave odnose se na vaše radne aktivnosti. Pritisnite klizač i povucite ga na poziciju koja najbolje odražava stupanj u kojem se slažete s izjavama u nastavku."
       },
       "8": {
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Sploh se ne strinjam",
-            "1": "Se ne strinjam",
-            "2": "Niti-niti",
-            "3": "Se strinjam",
-            "4": "Popolnoma se strinjam"
+            "0": "Nikako se ne slažem",
+            "1": "Ne slažem se",
+            "2": "Nemam mišljenje",
+            "3": "Slažem se",
+            "4": "Potpuno se slažem"
           }
         },
         "options": {
           "0": {
             "id": "COQ50",
-            "title": "Menim, da ima vodstvo posluh za osebne težave in počutje zaposlenih."
+            "title": "Vjerujem da uprava ima sluha za osobne probleme i dobrobit zaposlenika."
           }
         },
         "title": "",
