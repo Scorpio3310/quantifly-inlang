@@ -1241,31 +1241,31 @@
           }
         },
         "title": "",
-        "help": "Spodaj so navedeni različni dejavniki, ki so pomembni na delovnem mestu. Označi, ali si zadovoljen s temi dejavniki na svojem trenutnem delovnem mestu.",
+        "help": "U nastavku su navedeni različiti čimbenici koji su važni na radnom mjestu. Navedite jeste li zadovoljni ovim čimbenicima na svom trenutnom poslu.",
         "options": {
           "0": {
             "id": "MOT1",
-            "title": "Zanimivo, pomembno in navdihujoče delo"
+            "title": "Zanimljiv, važan i inspirativan rad"
           },
           "1": {
             "id": "MOT2",
-            "title": "Razvoj kompetenc in znanj ter karierno napredovanje"
+            "title": "Razvoj kompetencija i vještina te napredovanje u karijeri"
           },
           "2": {
             "id": "MOT3",
-            "title": "Samostojnost in ustvarjalnost pri delu"
+            "title": "Samostalnost i kreativnost u radu"
           },
           "3": {
             "id": "MOT4",
-            "title": "Ravnotežje med delom in prostim časom"
+            "title": "Ravnoteža između posla i slobodnog vremena"
           },
           "4": {
             "id": "MOT5",
-            "title": "Dobra plača"
+            "title": "Dobra plata"
           },
           "5": {
             "id": "MOT6",
-            "title": "Varnost zaposlitve"
+            "title": "Sigurnost radnog mjesta"
           },
           "6": {
             "id": "MOT7",
