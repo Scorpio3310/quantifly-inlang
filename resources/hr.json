@@ -864,24 +864,24 @@
           }
         },
         "title": "",
-        "help": "Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+        "help": "Pritisnite klizač i povucite ga na poziciju koja najbolje odražava stupanj u kojem se slažete s izjavama u nastavku."
       },
       "8": {
         "type": "scales",
         "scale": {
           "step": ".1",
           "labels": {
-            "0": "Nikoli",
-            "1": "Redko",
-            "2": "Včasih",
-            "3": "Pogosto",
-            "4": "Vedno"
+            "0": "Nikada",
+            "1": "Rijetko",
+            "2": "Ponekad",
+            "3": "Često",
+            "4": "Stalno"
           }
         },
         "options": {
           "0": {
             "id": "SQ21",
-            "title": "Delovne naloge opravljam zbrano in predano."
+            "title": "Svoje radne zadatke obavljam koncentrirano i predano."
           },
           "1": {
             "id": "SQ28",
