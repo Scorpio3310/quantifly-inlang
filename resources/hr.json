@@ -1113,33 +1113,33 @@
             "1": "Ne slažem se",
             "2": "Nemam mišljenje",
             "3": "Slažem se",
-            "4": "Popolnoma se strinjam"
+            "4": "Potpuno se slažem"
           }
         },
         "options": {
           "0": {
             "id": "COQ6",
-            "title": "V podjetju ostajam, ker se čutim navezanega na podjetje."
+            "title": "Ostajem u tvrtki jer se osjećam privrženim tvrtki."
           },
           "1": {
             "id": "COQ7",
-            "title": "V podjetju ostajam, ker se čutim navezanega na svoje delo."
+            "title": "Ostajem u tvrtki jer se osjećam privržen svom poslu."
           },
           "2": {
             "id": "COQ8",
-            "title": "V podjetju ostajam, ker so vse druge karierne priložnosti slabše ali jih ni."
+            "title": "Ostajem u tvrtki jer su sve druge prilike za karijeru lošije ili nepostojeće."
           },
           "3": {
             "id": "COQ9",
-            "title": "V podjetju ostajam, ker sem vanj že preveč vložil."
+            "title": "Ostajem u tvrtki jer sam već previše uložio u nju."
           },
           "4": {
             "id": "COQ10",
-            "title": "V podjetju ostajam, ker do njega čutim moralno dolžnost in obvezo."
+            "title": "Ostajem u tvrtki jer osjećam moralnu dužnost i obvezu prema njoj."
           },
           "5": {
             "id": "COQ11",
-            "title": "V podjetju ostajam, ker bi svoje bližnje sicer razočaral."
+            "title": "Ostajem u tvrtki jer bih inače razočarao svoje najdraže."
           },
           "6": {
             "id": "COQ12",
