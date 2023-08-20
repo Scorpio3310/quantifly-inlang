@@ -982,11 +982,11 @@
       "9": {
         "id": "SQXX",
         "type": "drag-bucket",
-        "title": "Katere od naslednjih vlog te najbolje opisujejo?",
-        "help": "Izberi do tri vloge.",
+        "title": "Koja vas od sljedećih uloga najbolje opisuje?",
+        "help": "Odaberite do tri uloge.",
         "options": {
           "0": {
-            "title": "Ekipni vodja",
+            "title": "Vođa tima",
             "description": "Vodi, usmerja, nadzira, organizira, koordinira in daje navodila, strukturira naloge, vnaša in skrbi za red, povezuje ekipo, spodbuja delo in dejavnosti, vodi ekipo k zaključevanju nalog in doseganju ciljev."
           },
           "1": {
