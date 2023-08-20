@@ -1393,11 +1393,11 @@
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Sploh se ne strinjam",
-            "1": "Se ne strinjam",
-            "2": "Niti-niti",
-            "3": "Se strinjam",
-            "4": "Popolnoma se strinjam"
+            "0": "Nikako se ne slažem",
+            "1": "Ne slažem se",
+            "2": "Nemam mišljenje",
+            "3": "Slažem se",
+            "4": "Potpuno se slažem"
           }
         },
         "options": {
