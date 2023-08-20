@@ -1309,25 +1309,25 @@
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Sploh se ne strinjam",
-            "1": "Se ne strinjam",
-            "2": "Niti-niti",
-            "3": "Se strinjam",
-            "4": "Popolnoma se strinjam"
+            "0": "Potpuno se ne slažem",
+            "1": "Ne slažem se",
+            "2": "Nemam mišljenje",
+            "3": "Slažem se",
+            "4": "Potpuno se slažem"
           }
         },
         "options": {
           "0": {
             "id": "TI1",
-            "title": "Nameravam zapustiti organizacijo."
+            "title": "Namjeravam napustiti organizaciju."
           },
           "1": {
             "id": "TI2",
-            "title": "V naslednjih mesecih nameravam vložiti veliko truda v iskanje nove zaposlitve."
+            "title": "U nadolazećim mjesecima planiram uložiti puno truda u pronalazak novog posla."
           },
           "2": {
             "id": "TI3",
-            "title": "Pogosto razmišljam o odhodu."
+            "title": "Često razmišljam o odlasku."
           }
         },
         "title": "",
