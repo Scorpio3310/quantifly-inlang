@@ -844,23 +844,23 @@
         "options": {
           "0": {
             "id": "SQMultiProject",
-            "title": "Delam na več projektih hkrati."
+            "title": "Radim na nekoliko projekata istovremeno."
           },
           "1": {
             "id": "SQOvertime",
-            "title": "Za moje delo mi pogosto zmanjkuje časa, zato delam več kot 8h dnevno."
+            "title": "Često mi nedostaje vremena za posao, pa radim više od 8 sati dnevno."
           },
           "2": {
             "id": "SQUnwork",
-            "title": "Nimamo jasno opredeljenih vlog, zato pogosto počnem stvari, ki naj ne bi bile moje delo."
+            "title": "Nemamo jasno definirane uloge pa često radim stvari koje ne bi trebale biti moj posao."
           },
           "3": {
             "id": "SQStress",
-            "title": "Pri delu sem izpostavljen stresnim situacijam."
+            "title": "Izložen sam stresnim situacijama na poslu."
           },
           "4": {
             "id": "SQOverwork",
-            "title": "Pri svojem delu se počutim preobremenjeno."
+            "title": "Osjećam se preopterećeno svojim poslom."
           }
         },
         "title": "",
