@@ -718,7 +718,7 @@
           }
         },
         "scaleTitle": "",
-        "title": "Aktivno išče načine za pridobivanje novega znanja in veščin za delo.",
+        "title": "Aktivno traži načine za stjecanje novih znanja i vještina za rad.",
         "help": "U ovom dijelu procijenite u kojoj se mjeri pojedinačni opis ponašanja tipično odnosi na vaše suradnike."
       },
       "40": {
@@ -726,13 +726,13 @@
         "type": "coworker-scales",
         "scale": {
           "labels": {
-            "0": "Doseganje zastavljenih ciljev",
-            "4": "Skrb za dobre odnose v ekipi"
+            "0": "Ostvarivanje postavljenih ciljeva",
+            "4": "Briga za dobre odnose u timu"
           }
         },
         "scaleTitle": "",
-        "title": "Kaj je po tvoji oceni izbranim sodelavcem bolj pomembno?",
-        "help": "Pozor! Pri tem vprašanju gre za izražene stabilne preference in ni pravilnih in napačnih odgovorov."
+        "title": "Što mislite, da važnije odabranim suradnicima?",
+        "help": "Pažnja! Ovo pitanje uključuje izražene stabilne preferencije i nema točnih i netočnih odgovora."
       },
       "41": {
         "id": "CQ48",
