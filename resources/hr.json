@@ -795,30 +795,30 @@
       "5": {
         "id": "COQ2",
         "type": "selectPeople",
-        "title": "Na koga se lahko običajno obrneš za pomoč pri projektih, ki vključujejo sodelovanje z drugimi ekipami?",
-        "help": "Izberi vsaj enega sodelavca."
+        "title": "Kome se obično možete obratiti za pomoć u projektima koji uključuju suradnju s drugim timovima?",
+        "help": "Odaberite barem jednog suradnika."
       },
       "6": {
         "id": "SQAvgHours",
         "type": "radios",
         "radios": {
           "0": {
-            "label": "0 dni"
+            "label": "0 dana"
           },
           "1": {
             "label": "1 dan"
           },
           "2": {
-            "label": "2 dneva"
+            "label": "2 dana"
           },
           "3": {
-            "label": "3 dni"
+            "label": "3 dana"
           },
           "4": {
-            "label": "4 dni"
+            "label": "4 dana"
           },
           "5": {
-            "label": "5 dni"
+            "label": "5 dana"
           }
         },
         "title": "",
