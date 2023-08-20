@@ -1065,8 +1065,8 @@
   },
   "organization": {
     "id": "organization-insight-with-360-3",
-    "title": "Ocena podjetja",
-    "description": "Vprašalnik za oceno podjetja omogoča anonimno podajanje tvojega osebnega pogleda na dinamiko ekipe in splošno uspešnost podjetja. Tvoje odgovore bomo združili z odgovori drugih in tako ustvarili popolno sliko o notranjem delovanju podjetja in o ekipnem duhu, prisotnemu v času ocenjevanja.\n\n*Opomba: V vprašalniku zaradi večje berljivosti uporabljamo moško slovnično obliko kot nevtralno za vse spolne identitete.",
+    "title": "Procjena tvrtke",
+    "description": "Upitnik za procjenu poduzeća omogućuje vam da anonimno date svoj osobni pogled na dinamiku tima i cjelokupnu uspješnost poduzeća. Kombinirat ćemo vaše odgovore s odgovorima drugih kako bismo stvorili cjelovitu sliku unutarnjeg funkcioniranja tvrtke i timskog duha prisutnog tijekom ocjenjivanja.\n*Napomena: U upitniku, radi bolje čitljivosti, koristimo gramatički oblik muškog roda kao neutralan za sve rodne identitete.",
     "type": "organization",
     "questions": {
       "0": {
@@ -1075,12 +1075,12 @@
         "options": {
           "0": {
             "value": "team-1",
-            "label": "Ekipa 1",
+            "label": "Tim 1",
             "description": ""
           },
           "1": {
             "value": "team-2",
-            "label": "Ekipa 2",
+            "label": "Tim 2",
             "description": ""
           }
         },
