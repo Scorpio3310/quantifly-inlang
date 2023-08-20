@@ -1331,17 +1331,17 @@
           }
         },
         "title": "",
-        "help": "Spodaj so navedene trditve. Klikni na drsnik in ga povleci na mesto, ki najbolje odraža, v kolikšni meri se strinjaš s spodnjimi trditvami."
+        "help": "U nastavku su tvrdnje. Pritisnite klizač i povucite ga na poziciju koja najbolje odražava stupanj u kojem se slažete s izjavama u nastavku."
       },
       "6": {
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Sploh se ne strinjam",
-            "1": "Se ne strinjam",
-            "2": "Niti-niti",
+            "0": "Potpuno se ne slažem",
+            "1": "Ne slažem se",
+            "2": "Nemam mišljenje",
             "3": "Se strinjam",
-            "4": "Popolnoma se strinjam"
+            "4": "Potpuno se slažem"
           }
         },
         "options": {
