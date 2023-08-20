@@ -987,19 +987,19 @@
         "options": {
           "0": {
             "title": "Vođa tima",
-            "description": "Vodi, usmerja, nadzira, organizira, koordinira in daje navodila, strukturira naloge, vnaša in skrbi za red, povezuje ekipo, spodbuja delo in dejavnosti, vodi ekipo k zaključevanju nalog in doseganju ciljev."
+            "description": "Vodi, usmjerava, nadzire, organizira, koordinira i daje upute, strukturira zadatke, uvodi i održava red, povezuje tim, potiče rad i aktivnosti, vodi tim u izvršenju zadataka i postizanju ciljeva."
           },
           "1": {
             "title": "Motivator",
-            "description": "Deluje v vlogi “drugega poveljnika” ekipe ali upravitelja nalog, ki podpira ekipno vodjo. Stimulira in spodbuja ekipo k delu in jo napolni z energijo, da vztraja pri delu."
+            "description": "Djeluje u ulozi \"zapovjednika\" tima ili voditelja zadataka podržavajući vođu tima. Potiče i potiče tim na rad te ga puni energijom da ustraje u radu."
           },
           "2": {
-            "title": "Iskalec moči",
-            "description": "Prevladuje, je avtokratski, išče moč in prepoznavnost preko dominantnosti, uveljavlja avtoriteto ali premoč, prekinja, moti doprinose drugih, druge podcenjuje, teži k prevladi in prevzemu moči, nasprotuje vodji, je agresiven do drugih."
+            "title": "Tražitelj moći",
+            "description": "On dominira, autokratski je, traži moć i priznanje kroz dominaciju, postavlja autoritet ili nadmoć, prekida, remeti doprinose drugih, podcjenjuje druge, sklon je dominirati i preuzeti moć, suprotstavlja se vođi, agresivan je prema drugima."
           },
           "3": {
             "title": "Kritik",
-            "description": "Prevzema vlogo kritika, iskalca napak, zaviralca ali hudičevega odvetnika, se ne strinja, nasprotuje, je ciničen, negativističen in trmast, obsoja druge, je pogosto v nasprotju s preostalo ekipo, v drugih zbuja odpor in obrambo. Je uporabna vloga pri odločanju."
+            "description": "Preuzima ulogu kritičara, zamjerača, retardatora ili vražjeg odvjetnika, ne slaže se, proturječi, ciničan je, negativan i tvrdoglav, osuđuje druge, često je u zavadi s ostatkom tima, kod drugih budi otpor i obrambeni stav. To je korisna uloga u donošenju odluka."
           },
           "4": {
             "title": "Pritegovalec pozornosti",
