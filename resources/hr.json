@@ -1035,7 +1035,7 @@
           },
           "12": {
             "title": "Dovrševalec",
-            "description": "Izvaja na podrobnosti osredotočene dejavnosti, ki so povezane z dovrševanjem nalog, se drži postopkov in postavljenih rokov, je usmerjen na podrobnosti, vesten in redoljuben, se drži svojih zadolžitev, izvaja nedvoumne in rutinske naloge."
+            "description": "Obavlja detaljne aktivnosti vezane uz izvršenje zadataka, pridržava se procedura i rokova, detaljan je, savjestan i točan, izvršava zadatke, obavlja nedvosmislene i rutinske zadatke."
           }
         }
       },
@@ -1051,14 +1051,14 @@
         "options": {
           "0": {
             "id": "SQ40",
-            "title": "Kaj ti je bolj pomembno?",
+            "title": "Što ti je važnije?",
             "labels": {
-              "0": "Doseganje zastavljenih ciljev",
-              "4": "Skrb za dobre odnose v ekipi"
+              "0": "Ostvarivanje postavljenih ciljeva",
+              "4": "Briga za dobre odnose u timu"
             }
           }
         },
-        "title": "Pozor! Pri naslednjih dveh vprašanjih gre za tvoj individualni odnos do dela in ni pravilnih odgovorov, zato bodi čim bolj iskren.",
+        "title": "Pažnja! Sljedeća dva pitanja odnose se na vaš individualni odnos prema poslu i na njih nema pravih odgovora, stoga budite što iskreniji.",
         "help": ""
       }
     }
