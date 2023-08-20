@@ -1026,12 +1026,12 @@
             "description": "Podržava uspješno izvršavanje timskih zadataka, pomaže u postizanju timskih ciljeva, provodi planove, pomaže timu, sažima i pojašnjava, bilježi timske aktivnosti, procese i postignuća, preuzima inicijativu kako bi se osigurao timski uspjeh, konsolidira informacije, priprema timske sastanke."
           },
           "10": {
-            "title": "Presojevalec",
-            "description": "Pregleduje in presoja ekipne rezultate, analizira in ocenjuje predloge, je previden in natančen, se osredotoča na dejstva in številke določene naloge."
+            "title": "Procjenitelj",
+            "description": "Pregledava i ocjenjuje rezultate tima, analizira i ocjenjuje prijedloge, pažljiv je i precizan, fokusiran na činjenice i brojke zadanog zadatka."
           },
           "11": {
-            "title": "Reševalec težav",
-            "description": "Se vključuje v tvorjenje idej in reševanje problemov, prosi za informacije in vpraša za mnenje ali pojasnitev, postreže z dejstvi, informacijami in mnenjem, izpostavlja protislovja in jih razjasnjuje, inovira, predlaga rešitve, ekipo usmerja k nalogi, deluje po principu “ponovim - razjasnim - potrdim”."
+            "title": "Rješavač problema",
+            "description": "Uključuje se u stvaranje ideja i rješavanje problema, traži informacije i traži mišljenje ili pojašnjenje, servira činjenice, informacije i mišljenje, ukazuje na proturječnosti i objašnjava ih, inovira, predlaže rješenja, usmjerava tim na zadatak, radi u skladu s princip \"ponovi - pojasni\" - potvrđujem."
           },
           "12": {
             "title": "Dovrševalec",
