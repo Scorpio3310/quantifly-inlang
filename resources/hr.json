@@ -1309,7 +1309,7 @@
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Potpuno se ne slažem",
+            "0": "Nikako se ne slažem",
             "1": "Ne slažem se",
             "2": "Nemam mišljenje",
             "3": "Slažem se",
@@ -1337,7 +1337,7 @@
         "type": "scales",
         "scale": {
           "labels": {
-            "0": "Potpuno se ne slažem",
+            "0": "Nikako se ne slažem",
             "1": "Ne slažem se",
             "2": "Nemam mišljenje",
             "3": "Se strinjam",
